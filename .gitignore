@@ -1,7 +1,7 @@
 # ------------------------------
 # Kernel source code (not tracked)
 # ------------------------------
-linux-*/             # Ignore any kernel source folder (e.g., linux-6.14.4/)
+linux-6.14.4/            # Ignore any kernel source folder (e.g., linux-6.14.4/)
 
 # ------------------------------
 # Userland sources (we only track built binaries if needed)
